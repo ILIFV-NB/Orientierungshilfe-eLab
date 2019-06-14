@@ -14,7 +14,7 @@ narrator: DE FEMALE
 
 # **Orientierungshilfe eLab**
 
-Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch offenen Fragen auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden können und somit alle nachfolgenden Nutzer noch mehr Unterstüzung finden. Vielen Dank!
+Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch offenen Fragen auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
 **FAQ**
@@ -24,17 +24,26 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* erl�
 * [Wie arbeite ich mit der Webumgebung *eLab*?](#4)
 * [Wo finde ich die Kurse und wie trete ich ihnen bei?](#5)
 * [Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?](#6)
-* [Was muss ich weiterhin beachten?](#7)
+* [Weitere Hinweise](#7)
 
 <br>
-Datei 'Ablauf Praktikum' berücksichtigen!
+
+<!--
+style="color: red;"
+-->
+Anmerkungen
+
+<!--
+style="color: red;"
+-->
+* Datei 'Ablauf Praktikum' berücksichtigen!
 
 ## Was ist *eLab*?
 
 Das Praktikum "Drehen" innerhalb des Moduls "Innovative Fertigungsverfahren" wird im Rahmen des
 Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung eLab. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung eLab. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 
 ## Wie registriere ich mich?
@@ -67,6 +76,8 @@ style="color: red;"
 -->
 * Link zur Webumgebung aktualisieren, sobald uns eine eigene Domain zur Verfügung steht.
 * bei AD nachfragen, ob und wie man sich als Nutzer löschen (lassen) kann. (Mindestens Admin?)
+* Müssen sich die Tutoren den Admin-Account teilen? Oder gibt es eine Möglichkeit, mehrere Tutoren anzumelden? Oder muss diese Aufgaben einer Person obliegen?
+* Im Moment kann sich dort jeder registrieren, der die Seite kennt. Kann man das einschränken? Bzw. nach Registrieren den Zugriff auf die Kurse koordinieren?
 
 ## Wie arbeite ich mit der Webumgebung *eLab*?
 
@@ -83,12 +94,12 @@ style = "width: 100%;
 <br>
 **Vor dem Praktikum**
 
-Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie praktisch (*Versuche*) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Sie haben weiterhin die Möglichkeit, sich mit der zu verwendenden Technik vertraut zu machen (*Maschinen- und Gerätetechnik*).
+Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie praktisch (*Versuche*) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Diese speichern Sie über Ihren Account ab. Im Labor haben Sie wiederum über Ihren Account, Zugriff darauf und können die benötigten Werte für die Versuche laden. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (*Maschinen- und Gerätetechnik*). Die *Lernzielkontrolle* bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
 
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-Nachdem alle Vorbereitungen getroffen und Sie zu den Versuchen vor Ort zugelassen sind, tragen Sie sich jeweils für eine Laborzeit ein und führen die Versuche, weitestgehend selbstständig, durch. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im *eLab* anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+Nachdem Sie alle Voruntersuchungen getätigt haben, senden Sie Ihre Daten an den Dozenten. Dieser gibt Ihnen die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich für Laborzeiten einzutragen und die Versuche, weitestgehend selbstständig, durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im *eLab* anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 
 <br>
@@ -111,7 +122,7 @@ style="color: red;"
 * Klären, wie der Absenden-Button heißt.
 * Bild austauschen, sobald Kurse enthalten sind
 
-## Wo finde ich meine Kurse?
+## Wo finde ich die Kurse und wie trete ich ihnen bei?
 
 Kurse, denen Sie einmal begetreten sind, finden Sie im Menü unter *My Courses*.
 
@@ -133,7 +144,7 @@ style="color: red;"
 * Mit AD klären, ob es möglich ist, die aktive Seite im Menü als solche zu markieren. (fett?)
 * Klären, wie man aus den Kursen wieder austreten bzw. sich als Nutzer wieder löschen kann.
 
-## Was passiert, wenn ich die Vorbereitungen zum Praktikum abgeschlossen habe?
+## Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?
 
 Sobald Sie einen Kurs abgearbeitet und alle nötigen Eingaben wie Berechnungen getätigt haben, bestätigen Sie dies mit einem Klick auf *Submit*. Sobald Sie alle erforderlichen Kurse abgeschlossen und abgeschickt haben, erfahren Sie, ob Sie zum Praktikum zugelassen sind und erhalten Zugang zu den möglichen Praktikumszeiten im Labor. Dort tragen Sie sich für eine Zeit ein und absolvieren vor Ort vorzugsweise zu zweit den zweiten Teil des Gesamtpraktikums.
 
@@ -152,7 +163,7 @@ style="color: red;"
 
 ## Weitere Hinweise
 
-**Ändern des Passwortes**
+###Ändern des Passwortes
 
 Wenn Sie Ihr Passwort ändern möchten, gehen Sie im Menü auf *Me* und geben Ihr neues Passwort ein.
 
