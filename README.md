@@ -26,24 +26,12 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowi
 * [Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?](#6)
 * [Weitere Hinweise](#7)
 
-<br>
-
-<!--
-style="color: red;"
--->
-Anmerkungen
-
-<!--
-style="color: red;"
--->
-* Datei 'Ablauf Praktikum' berücksichtigen!
 
 ## Was ist *eLab*?
 
-Das Praktikum "Drehen" innerhalb des Moduls "Innovative Fertigungsverfahren" wird im Rahmen des
-Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
+Das Praktikum "Drehen" innerhalb des Moduls "Innovative Fertigungsverfahren" (5. Semester, WS) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung eLab. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung *eLab*. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 
 ## Wie registriere ich mich?
@@ -76,7 +64,6 @@ style="color: red;"
 -->
 * Link zur Webumgebung aktualisieren, sobald uns eine eigene Domain zur Verfügung steht.
 * bei AD nachfragen, ob und wie man sich als Nutzer löschen (lassen) kann. (Mindestens Admin?)
-* Müssen sich die Tutoren den Admin-Account teilen? Oder gibt es eine Möglichkeit, mehrere Tutoren anzumelden? Oder muss diese Aufgaben einer Person obliegen?
 * Im Moment kann sich dort jeder registrieren, der die Seite kennt. Kann man das einschränken? Bzw. nach Registrieren den Zugriff auf die Kurse koordinieren?
 
 ## Wie arbeite ich mit der Webumgebung *eLab*?
@@ -94,7 +81,7 @@ style = "width: 100%;
 <br>
 **Vor dem Praktikum**
 
-Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie praktisch (*Versuche*) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Diese speichern Sie über Ihren Account ab. Im Labor haben Sie wiederum über Ihren Account, Zugriff darauf und können die benötigten Werte für die Versuche laden. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (*Maschinen- und Gerätetechnik*). Die *Lernzielkontrolle* bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
+Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie praktisch (*Versuche*) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Diese speichern Sie über Ihren Account ab. Im Labor haben Sie, wiederum über Ihren Account, Zugriff darauf und können die benötigten Werte für die Versuche laden. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (*Maschinen- und Gerätetechnik*). Die *Lernzielkontrolle* bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
 
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
@@ -105,7 +92,7 @@ Nachdem Sie alle Voruntersuchungen getätigt haben, senden Sie Ihre Daten an den
 <br>
 **Nach dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses *Protokoll*, Ihre Beobachtungen und Ergebnisse der Versuche zusammen und reichen diese innerhalb einer festgesetzten Frist mit dem Absenden-Button ein. Ihr Praktikum ist damit vollständig.
+Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses *Protokoll*, Ihre Beobachtungen und Ergebnisse der Versuche zusammen und reichen diese innerhalb einer festgesetzten Frist mit dem $\red {Absenden-Button}$ ein. Ihr Praktikum ist damit vollständig.
 
 <br>
 
@@ -121,6 +108,7 @@ style="color: red;"
 * Vorher mit André sprechen, ob die Webumgebung so bleibt!
 * Klären, wie der Absenden-Button heißt.
 * Bild austauschen, sobald Kurse enthalten sind
+* Des Weiteren ist eine virtuelle Umgebung geplant, die den Studierenden durch die Versuche begleitet.
 
 ## Wo finde ich die Kurse und wie trete ich ihnen bei?
 
@@ -165,7 +153,7 @@ style="color: red;"
 
 ###Ändern des Passwortes
 
-Wenn Sie Ihr Passwort ändern möchten, gehen Sie im Menü auf *Me* und geben Ihr neues Passwort ein.
+Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me* und geben Ihr neues Passwort ein.
 
 <br>
 ![image](images/Passwort.jpg)<!--
