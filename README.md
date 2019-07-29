@@ -24,6 +24,7 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowi
 * [Wie arbeite ich mit der Webumgebung *eLab*?](#4)
 * [Wo finde ich die Kurse und wie trete ich ihnen bei?](#5)
 * [Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?](#6)
+* [Hinweise Protokollerstellung](#7)
 * [Weitere Hinweise](#7)
 
 
@@ -148,6 +149,33 @@ style="color: red;"
 -->
 * Bild mit einem möglichen fertigen Kurs ergänzen. Submit-Button.
 * Ist es möglich, jeweils zwei Studierende in eine Gruppe zu stecken? Oder müssen sie sich dann einen Nutzeraccount teilen?
+
+##Hinweise Protokollerstellung
+
+###Einfügen und Visualisieren von Textdateien
+
+Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, sollten diese Daten visualisiert werden. So können Sie diese besser auswerten und als Bilddateien in Ihr Protokoll einbinden. Eine kleine Anleitung der Vorgehensweise finden Sie hier.
+
+Für jeden Versuch finden Sie im Protokoll den entsprechenden Platz für Ihre Auswertung und Interpretationen. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
+
+![image](images/Eingabefeld-Kraftverlauf.png)<!--
+style = "width: 100%; "
+-->
+
+Bitte kopieren Sie die Daten aus Ihrer zuvor generierten Textdatei und fügen diese in das Eingabefeld ein.
+
+![image](images/2Textdatei-Kraftverlauf.png)<!--
+style = "width: 100%; "
+-->
+
+Ein Klick auf den Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen.
+
+![image](images/2Diagramm-Kraftverlauf.png)<!--
+style = "width: 100%; "
+-->
+
+Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile, mit Hilfe derer sie zu allen eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den Pfeil links unter dem Eingabefeld notwendig.
+
 
 ## Weitere Hinweise
 
