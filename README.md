@@ -30,14 +30,14 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowi
 
 ## Was ist *eLab*?
 
-Das Praktikum "Drehen" innerhalb des Moduls "Innovative Fertigungsverfahren" (5. Semester, WS) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
+Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
 Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung *eLab*. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 
 ## Wie registriere ich mich?
 
-In Moodle stehen Ihnen zwei Links zum Praktikum *Drehen* zur Verfügung. Dem ersten Link sind Sie gefolgt und daher in dieser Orientierungshilfe gelandet. Der zweite Link führt Sie zur [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises/).
+Um sich zu registrieren, folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises/) führt.
 
 <br>
 ![image](images/Register.jpg)<!--
@@ -64,14 +64,18 @@ Anmerkungen
 style="color: red;"
 -->
 * Link zur Webumgebung aktualisieren, sobald uns eine eigene Domain zur Verfügung steht.
-* bei AD nachfragen, ob und wie man sich als Nutzer löschen (lassen) kann. (Mindestens Admin?)
-* Im Moment kann sich dort jeder registrieren, der die Seite kennt. Kann man das einschränken? Bzw. nach Registrieren den Zugriff auf die Kurse koordinieren?
+
 
 ## Wie arbeite ich mit der Webumgebung *eLab*?
 
 Die Webumgebung *eLab* wird Sie während der gesamten Zeit ihres Praktikums begleiten. Sie beinhaltet die Kurse, die Sie sowohl bei der Vorbereitung (Teil 1) für das Praktikum vor Ort, während der Versuche (Teil 2) als auch bei Ihren Nachbereitungen (Teil 3) unterstützen.
 
 Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die zur Verfügung stehenden Kurse. Um einem Kurs beizutreten, öffnen Sie diesen. Sie finden ihn von nun an im Menü unter *My Courses*.
+
+<!--
+style="font-size: 14px;"
+-->
+*Anmerkung: Tun Sie sich bitte in Gruppen zusammen und einigen Sie sich, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider noch nicht möglich, einer Gruppe einen Zugang zuzuordnen.*
 
 <br>
 ![image](images/Kurse.png)<!--
@@ -87,13 +91,13 @@ Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-Nachdem Sie alle Voruntersuchungen getätigt haben, senden Sie Ihre Daten an den Dozenten. Dieser gibt Ihnen die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich für Laborzeiten einzutragen und die Versuche, weitestgehend selbstständig, durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im *eLab* anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich in Gruppen für Laborzeiten einzutragen und die Versuche, weitestgehend selbstständig, durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im *eLab* anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 
 <br>
 **Nach dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses *Protokoll*, Ihre Beobachtungen und Ergebnisse der Versuche zusammen und reichen diese innerhalb einer festgesetzten Frist mit dem $\red {Absenden-Button}$ ein. Ihr Praktikum ist damit vollständig.
+Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses *Protokoll*, Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Ihr Praktikum ist damit vollständig.
 
 <br>
 
@@ -105,11 +109,10 @@ Anmerkungen
 <!--
 style="color: red;"
 -->
-* Zunächst separaten Link zur Orientierungshilfe (in Moodle) bereitstellen. Ein weiterer Link zur Webumgebung.
-* Vorher mit André sprechen, ob die Webumgebung so bleibt!
-* Klären, wie der Absenden-Button heißt.
+* Zunächst separaten Link zur Orientierungshilfe (in Moodle) bereitstellen. Innerhalb dessen weiterer Link zur Webumgebung.
 * Bild austauschen, sobald Kurse enthalten sind
-* Des Weiteren ist eine virtuelle Umgebung geplant, die den Studierenden durch die Versuche begleitet.
+* Des Weiteren ist eine virtuelle Umgebung geplant, die die Studierenden durch die Versuche begleitet.
+* Schlusssatz: Wann und in welcher Form bekommen die Studierenden bzgl. der Ergebnisse Bescheid?
 
 ## Wo finde ich die Kurse und wie trete ich ihnen bei?
 
@@ -130,12 +133,11 @@ Anmerkungen
 style="color: red;"
 -->
 * Bild ändern, sobald Kurse eingepflegt sind.
-* Mit AD klären, ob es möglich ist, die aktive Seite im Menü als solche zu markieren. (fett?)
-* Klären, wie man aus den Kursen wieder austreten bzw. sich als Nutzer wieder löschen kann.
+* Bitte an AD gegeben, die aktive Seite im Menü als solche zu markieren. (fett?)
 
 ## Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?
 
-Sobald Sie einen Kurs abgearbeitet und alle nötigen Eingaben wie Berechnungen getätigt haben, bestätigen Sie dies mit einem Klick auf *Submit*. Sobald Sie alle erforderlichen Kurse abgeschlossen und abgeschickt haben, erfahren Sie, ob Sie zum Praktikum zugelassen sind und erhalten Zugang zu den möglichen Praktikumszeiten im Labor. Dort tragen Sie sich für eine Zeit ein und absolvieren vor Ort vorzugsweise zu zweit den zweiten Teil des Gesamtpraktikums.
+Sobald Sie alle erforderlichen Kurse bis zu einer festgesetzten Frist abgeschlossen haben, erfahren Sie, ob Sie zum Praktikum zugelassen sind und erhalten Zugang zu den möglichen Praktikumszeiten im Labor. Dort tragen Sie sich für eine Zeit ein und absolvieren vor Ort vorzugsweise zu zweit den zweiten Teil des Gesamtpraktikums.
 
 <br>
 
@@ -147,12 +149,12 @@ Anmerkungen
 <!--
 style="color: red;"
 -->
-* Bild mit einem möglichen fertigen Kurs ergänzen. Submit-Button.
-* Ist es möglich, jeweils zwei Studierende in eine Gruppe zu stecken? Oder müssen sie sich dann einen Nutzeraccount teilen?
+* Bild mit einem möglichen fertigen Kurs ergänzen.
+* Studierende müssen sie sich zu Gruppen zusammentun und einen Nutzeraccount teilen.
 
 ##Hinweise Protokollerstellung
 
-###Einfügen und Visualisieren von Textdateien
+###Visualisieren von Textdateien
 
 Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, sollten diese Daten visualisiert werden. So können Sie diese besser auswerten und als Bilddateien in Ihr Protokoll einbinden. Eine kleine Anleitung der Vorgehensweise finden Sie hier.
 
@@ -164,17 +166,32 @@ style = "width: 100%; "
 
 Bitte kopieren Sie die Daten aus Ihrer zuvor generierten Textdatei und fügen diese in das Eingabefeld ein.
 
-![image](images/2Textdatei-Kraftverlauf.png)<!--
+![image](images/Textdatei-Kraftverlauf.png)<!--
 style = "width: 100%; "
 -->
 
-Ein Klick auf den Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen.
+Ein Klick auf den Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen. Um einzelne Graphen auszublenden, klicken Sie auf das jeweilige Symbol in der Legende.
 
-![image](images/2Diagramm-Kraftverlauf.png)<!--
+![image](images/Diagramm-Kraftverlauf.png)<!--
 style = "width: 100%; "
 -->
 
 Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile, mit Hilfe derer sie zu allen eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den Pfeil links unter dem Eingabefeld notwendig.
+
+
+<br/>
+
+<!--
+style="color: red;"
+-->
+Anmerkungen
+
+<!--
+style="color: red;"
+-->
+* Im Moment ist es besser einen Screenshot mit z.B. Windows Ink-Arbeitsbereich zu machen. Die Downloadqualität ist noch zu gering. Bitte an AD herangetragen.
+
+
 
 
 ## Weitere Hinweise
