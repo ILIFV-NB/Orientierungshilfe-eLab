@@ -24,18 +24,18 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowi
 * [Wie arbeite ich mit der Webumgebung *eLab*?](#4)
 * [Wo finde ich die Kurse und wie trete ich ihnen bei?](#5)
 * [Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?](#6)
-* [Hinweise Protokollerstellung](#7)
-* [Weitere Hinweise](#7)
+* [Hilfestellung Protokollerstellung](#7)
+* [Allgemeine Hinweise](#10)
 
 
-## Was ist *eLab*?
+# Was ist *eLab*?
 
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich in der Webumgebung *eLab*. Mit diesem Zugang erhalten Sie zeit- und ortsunabhängigen Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 
-## Wie registriere ich mich?
+# Wie registriere ich mich?
 
 Um sich zu registrieren, folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises/) führt.
 
@@ -53,20 +53,8 @@ style = "width: 100%;
         border: 1px solid; "
 -->
 
-<br>
 
-<!--
-style="color: red;"
--->
-Anmerkungen
-
-<!--
-style="color: red;"
--->
-* Link zur Webumgebung aktualisieren, sobald uns eine eigene Domain zur Verfügung steht.
-
-
-## Wie arbeite ich mit der Webumgebung *eLab*?
+# Wie arbeite ich mit der Webumgebung *eLab*?
 
 Die Webumgebung *eLab* wird Sie während der gesamten Zeit ihres Praktikums begleiten. Sie beinhaltet die Kurse, die Sie sowohl bei der Vorbereitung (Teil 1) für das Praktikum vor Ort, während der Versuche (Teil 2) als auch bei Ihren Nachbereitungen (Teil 3) unterstützen.
 
@@ -75,7 +63,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 <!--
 style="font-size: 14px;"
 -->
-*Anmerkung: Tun Sie sich bitte in Gruppen zusammen und einigen Sie sich, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider noch nicht möglich, einer Gruppe einen Zugang zuzuordnen.*
+[*Anmerkung: Tun Sie sich bitte in Gruppen zusammen und einigen Sie sich, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider nicht möglich, einer Gruppe einen Zugang zuzuordnen.*]
 
 <br>
 ![image](images/Kurse.png)<!--
@@ -86,37 +74,23 @@ style = "width: 100%;
 <br>
 **Vor dem Praktikum**
 
-Mithilfe der Kurse können Sie sich inhaltlich (*Theoretische Grundlagen*) sowie praktisch (*Versuche*) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Diese speichern Sie über Ihren Account ab. Im Labor haben Sie, wiederum über Ihren Account, Zugriff darauf und können die benötigten Werte für die Versuche laden. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (*Maschinen- und Gerätetechnik*). Die *Lernzielkontrolle* bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
+Mithilfe der Kurse können Sie sich inhaltlich <span style="background-color:lightgrey">(Theoretische Grundlagen)</span> sowie praktisch <span style="background-color:lightgrey">(Versuche)</span> auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Einmal eingegeben und mit *Submit* bestätigt, sind sie gespeichert und können über Ihren Account eingesehen werden. So haben Sie auch im Labor Zugriff darauf. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen <span style="background-color:lightgrey">(Maschinen- und Gerätetechnik)</span>. Die <span style="background-color:lightgrey">Lernzielkontrolle</span> bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
 
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich in Gruppen für Laborzeiten einzutragen und die Versuche, weitestgehend selbstständig, durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im *eLab* anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich in Gruppen für Laborzeiten einzutragen und die Versuche weitestgehend selbstständig durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im [*eLab*](https://elab-hsmd-qa.dev.enterprises/) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 
 <br>
 **Nach dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses *Protokoll*, Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Ihr Praktikum ist damit vollständig.
+Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses <span style="background-color:lightgrey">Protokoll</span>, Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Ihr Praktikum ist damit vollständig.
 
-<br>
 
-<!--
-style="color: red;"
--->
-Anmerkungen
+# Wo finde ich die Kurse und wie trete ich ihnen bei?
 
-<!--
-style="color: red;"
--->
-* Zunächst separaten Link zur Orientierungshilfe (in Moodle) bereitstellen. Innerhalb dessen weiterer Link zur Webumgebung.
-* Bild austauschen, sobald Kurse enthalten sind
-* Des Weiteren ist eine virtuelle Umgebung geplant, die die Studierenden durch die Versuche begleitet.
-* Schlusssatz: Wann und in welcher Form bekommen die Studierenden bzgl. der Ergebnisse Bescheid?
-
-## Wo finde ich die Kurse und wie trete ich ihnen bei?
-
-Kurse, denen Sie einmal begetreten sind, finden Sie im Menü unter *My Courses*.
+Alle verfügbaren Kurse befinden sich in der [*Webumgebung*](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
 ![image](images/InkedKurse.jpg)<!--
@@ -124,37 +98,17 @@ style = "width: 100%;
         border: 1px solid; "
 -->
 
-<!--
-style="color: red;"
--->
-Anmerkungen
 
-<!--
-style="color: red;"
--->
-* Bild ändern, sobald Kurse eingepflegt sind.
-* Bitte an AD gegeben, die aktive Seite im Menü als solche zu markieren. (fett?)
-
-## Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?
+# Was passiert, wenn ich die Vorbereitungen abgeschlossen habe?
 
 Sobald Sie alle erforderlichen Kurse bis zu einer festgesetzten Frist abgeschlossen haben, erfahren Sie, ob Sie zum Praktikum zugelassen sind und erhalten Zugang zu den möglichen Praktikumszeiten im Labor. Dort tragen Sie sich für eine Zeit ein und absolvieren vor Ort vorzugsweise zu zweit den zweiten Teil des Gesamtpraktikums.
 
-<br>
 
-<!--
-style="color: red;"
--->
-Anmerkungen
+# Hilfestellung Protokollerstellung
 
-<!--
-style="color: red;"
--->
-* Bild mit einem möglichen fertigen Kurs ergänzen.
-* Studierende müssen sie sich zu Gruppen zusammentun und einen Nutzeraccount teilen.
+Um das Praktikum abzuschließen, fassen Sie Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Die folgenden Seiten dienen als HIlfestellung zur Erstellung eines Protokolls innerhalb der [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises/).
 
-##Hinweise Protokollerstellung
-
-###Visualisieren von Textdateien
+## Visualisieren von Textdateien
 
 Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, sollten diese Daten visualisiert werden. So können Sie diese besser auswerten und als Bilddateien in Ihr Protokoll einbinden. Eine kleine Anleitung der Vorgehensweise finden Sie hier.
 
@@ -176,32 +130,50 @@ Ein Klick auf den Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagra
 style = "width: 100%; "
 -->
 
-Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile, mit Hilfe derer sie zu allen eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den Pfeil links unter dem Eingabefeld notwendig.
+Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile ![image](images/Pfeile-grau.png)<!--
+style = "width: 10%; "
+-->, mit Hilfe derer sie zu allen eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den Pfeil ![image](images/Pfeil-blau.png)<!--
+style = "width: 3%; "
+--> links unter dem Eingabefeld notwendig.
 
 
-<br/>
+## Hinweise
 
-<!--
-style="color: red;"
--->
-Anmerkungen
+* Betätigen der Funktionstaste F5 aktualisiert die Seite und lässt alle Diagramme verschwinden. Ein erneuter Klick auf den Pfeil unter dem Eingabefeld erzeugt ein neues Diagramm.
+* Um sich einen Ausschnitt im Diagramm näher anzuschauen, klicken Sie über dem Diagramm auf das Zoom-Icon ![image](images/Zoom.png)<!--
+style = "width: 2%; "
+--> und wählen den zu betrachtenden Bereich im Diagramm aus. Den Ausgangszustand erhalten Sie mit Zoom-Reset ![image](images/Reset.png)<!--
+style = "width: 2%; "
+-->.
+* Wenn Sie erfahren möchten, welche Daten das aktuelle Diagramm beinhaltet, klicken Sie auf das Icon in Form eines Dokumentes ![image](images/Dok.png)<!--
+style = "width: 2%; "
+-->.
 
-<!--
-style="color: red;"
--->
-* Im Moment ist es besser einen Screenshot mit z.B. Windows Ink-Arbeitsbereich zu machen. Die Downloadqualität ist noch zu gering. Bitte an AD herangetragen.
+# Allgemeine Hinweise
 
+[Passwort](#11)
 
+## Passwort
 
+~~Passwort ändern~~
 
-## Weitere Hinweise
-
-###Ändern des Passwortes
-
-Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me* und geben Ihr neues Passwort ein.
+Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me*, geben Ihr neues Passwort ein und bestätigen dieses.
 
 <br>
 ![image](images/Passwort.jpg)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
+
+<br>
+~~Passwort vergessen~~
+
+Wenn Sie Ihr Passwort vergessen haben, wenden Sie sich bitte per E-Mail an den Dozenten bzw. an [Nancy Brinkmann](#12) oder [Ronny Stolze](#12). Sie bekommen in diesem Fall ein Einmalpasswort, das Sie nach oben beschriebener Anleitung ändern können.
+
+## Kontakt
+
+Nancy Brinkmann <br>
+E-Mail: nancy.brinkmann(at)h2.de
+
+Ronny Stolze <br>
+E-Mail: ronny.stolze(at)h2.de
