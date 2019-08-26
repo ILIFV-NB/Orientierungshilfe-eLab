@@ -14,7 +14,7 @@ narrator: DE FEMALE
 
 # **Orientierungshilfe eLab**
 
-Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch offenen Fragen auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
+Auf den folgenden Seiten wird das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch offenen Fragen auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
 **FAQ**
@@ -32,7 +32,7 @@ Auf den folgenden Seiten wird das Arbeiten innerhalb der Webumgebung *eLab* sowi
 
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 
 # Wie registriere ich mich?
@@ -63,7 +63,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 <!--
 style="font-size: 14px;"
 -->
-[*Anmerkung: Tun Sie sich bitte in Gruppen zusammen und einigen Sie sich, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider nicht möglich, einer Gruppe einen Zugang zuzuordnen.*]
+[*Anmerkung: Tun Sie sich bitte in Gruppen von 2 - 3 Personen zusammen und einigen Sie sich, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider nicht möglich, einer Gruppe einen Zugang zuzuordnen.*]
 
 <br>
 ![image](images/Kurse.png)<!--
@@ -74,23 +74,23 @@ style = "width: 100%;
 <br>
 **Vor dem Praktikum**
 
-Mithilfe der Kurse können Sie sich inhaltlich <span style="background-color:lightgrey">(Theoretische Grundlagen)</span> sowie praktisch <span style="background-color:lightgrey">(Versuche)</span> auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Einmal eingegeben und mit *Submit* bestätigt, sind sie gespeichert und können über Ihren Account eingesehen werden. So haben Sie auch im Labor Zugriff darauf. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen <span style="background-color:lightgrey">(Maschinen- und Gerätetechnik)</span>. Die <span style="background-color:lightgrey">Lernzielkontrolle</span> bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
+Mithilfe der Kurse können Sie sich inhaltlich (**Theoretische Grundlagen**) sowie praktisch (**Versuche**) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Einmal eingegeben und mit *Submit* bestätigt, sind sie gespeichert und können über Ihren Account eingesehen werden. So haben Sie auch im Labor Zugriff darauf. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (**Maschinen- und Gerätetechnik**). Die **Lernzielkontrolle** bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu prüfen.
 
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich in Gruppen für Laborzeiten einzutragen und die Versuche weitestgehend selbstständig durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im [*eLab*](https://elab-hsmd-qa.dev.enterprises/) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind. Sie bekommen nun die Möglichkeit, sich in Gruppen für Laborzeiten einzutragen und die Versuche weitestgehend selbstständig durchzuführen. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich an einem Terminal mit Ihrem Account im [eLab](https://elab-hsmd-qa.dev.enterprises/) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 
 <br>
 **Nach dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses <span style="background-color:lightgrey">Protokoll</span>, Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Ihr Praktikum ist damit vollständig.
+Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung. Um das Praktikum abzuschließen, fassen Sie, unter Zuhilfenahme des Kurses **Protokoll**, Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Ihr Praktikum ist damit vollständig.
 
 
 # Wo finde ich die Kurse und wie trete ich ihnen bei?
 
-Alle verfügbaren Kurse befinden sich in der [*Webumgebung*](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
+Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
 ![image](images/InkedKurse.jpg)<!--
