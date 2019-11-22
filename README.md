@@ -45,7 +45,7 @@ Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hs
 
 <br>
 ![image](images/Register.jpg)<!--
-style = "width: 70%;
+style = "width: 100%;
         border: 1px solid; "
 -->
 
@@ -53,7 +53,7 @@ Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihr
 
 <br>
 ![image](images/Register-User.png)<!--
-style = "width: 70%;
+style = "width: 100%;
         border: 1px solid; "
 -->
 
@@ -67,7 +67,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 
 <br>
 ![image](images/Kurse.png)<!--
-style = "width: 70%;
+style = "width: 100%;
         border: 1px solid; "
 -->
 
@@ -100,7 +100,7 @@ Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsm
 
 <br>
 ![image](images/InkedKurse.jpg)<!--
-style = "width: 70%;
+style = "width: 100%;
         border: 1px solid; "
 -->
 
@@ -121,19 +121,19 @@ Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien 
 Für jeden Versuch finden Sie [hier](#9) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
 
 ![image](images/Eingabefeld-Kraftverlauf.png)<!--
-style = "width: 70%; "
+style = "width: 100%; "
 -->
 
 Bitte kopieren Sie die Daten aus Ihrer zuvor generierten Textdatei in das Eingabefeld.
 
 ![image](images/Textdatei-Kraftverlauf.png)<!--
-style = "width: 70%; "
+style = "width: 100%; "
 -->
 
 Ein Klick auf den blauen Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen. Um einzelne Graphen auszublenden, klicken Sie auf das jeweilige Symbol in der Legende.
 
 ![image](images/Diagramm-Kraftverlauf.png)<!--
-style = "width: 70%; "
+style = "width: 100%; "
 -->
 
 Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile, mit Hilfe derer Sie zu allen zuvor eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den blauen Pfeil links unter dem Eingabefeld notwendig.
@@ -1004,7 +1004,7 @@ function plotData(t5, x5) {
 
 # Allgemeine Hinweise
 
-[Hilfe](#15)
+[Kommentare](#15)
 
 [Passwort](#16)
 
