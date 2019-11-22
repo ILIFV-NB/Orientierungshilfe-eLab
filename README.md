@@ -1004,7 +1004,7 @@ function plotData(t5, x5) {
 
 # Allgemeine Hinweise
 
-[Hilfe](#15)
+[Kommentare](#15)
 
 [Passwort](#16)
 
@@ -1014,7 +1014,7 @@ function plotData(t5, x5) {
 
 ~~Kommentare zu den Kursen~~
 
-Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im ~~Titel~~ den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen.
+Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im Titel den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen.
 
 
 ## Passwort
