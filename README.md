@@ -43,7 +43,7 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
 
-![image](images/Register.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
 style = "width: 75%;
         border: 1px solid; "
 -->
