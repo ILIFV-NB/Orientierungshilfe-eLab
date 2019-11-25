@@ -1029,11 +1029,7 @@ Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me*, geben Ihr neues Passwor
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Passwort.jpg)<!--
-<<<<<<< HEAD
 style = "width: 75%;
-=======
-style = "width: 100%;
->>>>>>> 7bffe4b838fdf97d3ae588fa1e0cae66a46cf445
         border: 1px solid; "
 -->
 
