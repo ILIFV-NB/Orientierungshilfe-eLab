@@ -44,7 +44,7 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
 
 <br>
-![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.PNG)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
@@ -66,7 +66,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 
 
 <br>
-![image](images/Kurse.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
