@@ -43,18 +43,16 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
 
-<br>
 ![image](images/Register.png)<!--
-style = "width: 100%;
+style = "width: 75%;
         border: 1px solid; "
 -->
 
 
 Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert.
 
-<br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register-User.png)<!--
-style = "width: 100%;
+style = "width: 75%;
         border: 1px solid; "
 -->
 
@@ -68,7 +66,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
-style = "width: 100%;
+style = "width: 75%;
         border: 1px solid; "
 -->
 
@@ -101,7 +99,7 @@ Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsm
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
-style = "width: 100%;
+style = "width: 75%;
         border: 1px solid; "
 -->
 
