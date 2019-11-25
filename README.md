@@ -119,21 +119,26 @@ Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien 
 
 Für jeden Versuch finden Sie [hier](#9) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
 
-![image](images/Eingabefeld-Kraftverlauf.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Eingabefeld-Kraftverlauf.png)<!--
+style = "width: 75%;
+        border: 1px solid; "
 -->
 
 Bitte kopieren Sie die Daten aus Ihrer zuvor generierten Textdatei in das Eingabefeld.
 
-![image](images/Textdatei-Kraftverlauf.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Textdatei-Kraftverlauf.png)<!--
+style = "width: 75%;
+        border: 1px solid; "
 -->
+
 
 Ein Klick auf den blauen Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen. Um einzelne Graphen auszublenden, klicken Sie auf das jeweilige Symbol in der Legende.
 
-![image](images/Diagramm-Kraftverlauf.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Diagramm-Kraftverlauf.png)<!--
+style = "width: 75%;
+        border: 1px solid; "
 -->
+
 
 Wenn Sie weitere Daten einlesen möchten, löschen Sie die vorherigen Daten aus dem Eingabefeld, kopieren Ihre neuen Daten hinein und führen die Visualisierung wie oben beschrieben durch. Rechts unter dem Eingabefeld befinden sich Pfeile, mit Hilfe derer Sie zu allen zuvor eingegebenen Daten navigieren können. Für die neue Visualisierung ist jeweils ein Klick auf den blauen Pfeil links unter dem Eingabefeld notwendig.
 
