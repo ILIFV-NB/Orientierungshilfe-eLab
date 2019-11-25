@@ -99,7 +99,7 @@ $^* $Derzeit noch nicht möglich. Bitte nutzen Sie ein externes Speichermedium o
 Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
-![image](images/Kurse.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
