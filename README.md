@@ -18,7 +18,7 @@ script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 
 # **Orientierungshilfe eLab**
 
-Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#11) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
+Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
 **FAQ**
@@ -44,7 +44,7 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
 
 <br>
-![image](images/Register.jpg)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
@@ -52,7 +52,7 @@ style = "width: 100%;
 Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert.
 
 <br>
-![image](images/Register-User.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register-User.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
@@ -99,7 +99,7 @@ $^* $Derzeit noch nicht möglich. Bitte nutzen Sie ein externes Speichermedium o
 Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
-![image](images/InkedKurse.jpg)<!--
+![image](images/Kurse.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
