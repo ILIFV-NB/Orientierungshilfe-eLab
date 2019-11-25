@@ -44,10 +44,11 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
 
 <br>
-![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
+![image](images/Register.png)<!--
 style = "width: 100%;
         border: 1px solid; "
 -->
+
 
 Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert.
 
