@@ -1028,8 +1028,8 @@ Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregun
 Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me*, geben Ihr neues Passwort ein und bestätigen dieses.
 
 <br>
-![image](images/Passwort.jpg)<!--
-style = "width: 100%;
+![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Passwort.jpg)<!--
+style = "width: 75%;
         border: 1px solid; "
 -->
 
