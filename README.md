@@ -21,7 +21,6 @@ script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
-**FAQ**
 
 * [Was ist *eLab*?](#2)
 * [Wie registriere ich mich?](#3)
@@ -37,6 +36,18 @@ Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](ht
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wird im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
 Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+
+<br/>
+
+Folgende Kurse befinden sich derzeit in der Lernumgebung:
+
+* Orientierungshilfe e-Lab
+* Theoretische Grundlagen
+* Maschinen- & Gerätetechnik
+* Lernzielkontrolle
+* Versuchsvorbereitung
+* Versuch 1 - Rauheitsmodell
+* Versuch 2 - Zerspankraftmodell
 
 
 # Wie registriere ich mich?
@@ -1007,6 +1018,8 @@ function plotData(t5, x5) {
 * Wenn Sie erfahren möchten, welche Daten das aktuelle Diagramm beinhaltet, klicken Sie auf das Icon in Form eines Dokumentes.
 
 # Allgemeine Hinweise
+
+<br/>
 
 [Kommentare](#15)
 
