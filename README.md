@@ -478,7 +478,7 @@ style="font-size: 30px; margin: 0 0;"
 **R-Profil**
 
 
-``` cvs (Messstrecke in µm - R-Profil in µm)
+``` cvs (Messstrecke in mm - R-Profil in µm)
 ```
 <script>
 let data3 = `@input`.replace(/,/g, ".");
@@ -557,12 +557,12 @@ function plotData(t3, x3) {
 
     xAxis: [{
       type: 'value',
-      name: 'Messstrecke in µm',
+      name: 'Messstrecke in mm',
       nameLocation: 'middle',
       nameGap: 40,
       min: 0,
-      max: 4800,
-      interval: 800,
+      max: 4.8,
+      interval: 0.8,
       axisLabel: {
         fontSize: 20,
       },
