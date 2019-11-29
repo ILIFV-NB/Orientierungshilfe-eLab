@@ -610,7 +610,7 @@ function plotData(t3, x3) {
 ### Durchmesser
 
 
-``` cvs (Messung - Ø d in mm)
+``` cvs (Ø d in mm)
 ```
 <script>
 let data5 = `@input`.replace(/,/g, ".");
@@ -619,10 +619,12 @@ let split5 = data5.match(/\d+(?:\.\d+)?|\-\d+(?:\.\d+)?/g);
 //document.write(split5);
 let M1 = []
 let D = []
+let n = 1
 
-for(let i=0; i<split5.length; i=i+2) {
-  M1.push(parseFloat(split5[i]));
-  D.push(parseFloat(split5[i+1]));
+for(let i=0; i<split5.length; i=i+1) {
+  M1.push(n);
+  D.push(parseFloat(split5[i]));
+  n++;
 };
 
 plotData(M1, D);
