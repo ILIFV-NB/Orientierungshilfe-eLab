@@ -310,7 +310,7 @@ function plotData(t, x, y, z) {
 
 ### Rauheitskenngrößen
 
-``` cvs (Messung - Ra in µm - Rz in µm - Rmax in µm)
+``` cvs (Ra in µm - Rz in µm - Rmax in µm)
 ```
 <script>
 let data1 = `@input`.replace(/,/g, ".");
