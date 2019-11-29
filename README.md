@@ -328,7 +328,7 @@ for(let i=0; i<split1.length; i=i+3) {
   Ra.push(parseFloat(split1[i]));
   Rz.push(parseFloat(split1[i+1]));
   Rmax.push(parseFloat(split1[i+2]));
-  j++
+  j++;
 };
 
 plotData(M, Ra, Rz, Rmax);
