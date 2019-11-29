@@ -321,12 +321,14 @@ let M = []
 let Ra = []
 let Rz = []
 let Rmax = []
+let j = 1
 
-for(let i=0; i<split1.length; i=i+4) {
-  M.push(parseFloat(split1[i]));
-  Ra.push(parseFloat(split1[i+1]));
-  Rz.push(parseFloat(split1[i+2]));
-  Rmax.push(parseFloat(split1[i+3]));
+for(let i=0; i<split1.length; i=i+3) {
+  M.push(parseFloat(j);
+  Ra.push(parseFloat(split1[i]));
+  Rz.push(parseFloat(split1[i+1]));
+  Rmax.push(parseFloat(split1[i+2]));
+  j++
 };
 
 plotData(M, Ra, Rz, Rmax);
