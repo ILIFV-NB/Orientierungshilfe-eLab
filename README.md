@@ -310,7 +310,11 @@ function plotData(t, x, y, z) {
 
 ### Rauheitskenngrößen
 
-``` cvs (Messung - Ra in µm - Rz in µm - Rmax in µm)
+``` cvs (Ra in µm - Rz in µm - Rmax in µm)
+0,5;2,1;2,5
+0,8;3,0;3,3
+0,6;2,5;2,9
+0,7;1,9;2,2
 ```
 <script>
 let data1 = `@input`.replace(/,/g, ".");
@@ -321,23 +325,14 @@ let M = []
 let Ra = []
 let Rz = []
 let Rmax = []
-<<<<<<< HEAD
-
-for(let i=0; i<split1.length; i=i+4) {
-  M.push(parseFloat(split1[i]));
-  Ra.push(parseFloat(split1[i+1]));
-  Rz.push(parseFloat(split1[i+2]));
-  Rmax.push(parseFloat(split1[i+3]));
-=======
 let j = 1
 
 for(let i=0; i<split1.length; i=i+3) {
-  M.push(parseFloat(j);
+  M.push(j);
   Ra.push(parseFloat(split1[i]));
   Rz.push(parseFloat(split1[i+1]));
   Rmax.push(parseFloat(split1[i+2]));
-  j++;
->>>>>>> 1f25cf04fe14d70af1d0a1396e60044df02f7d3a
+  j=j+1;
 };
 
 plotData(M, Ra, Rz, Rmax);
