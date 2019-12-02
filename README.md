@@ -475,46 +475,47 @@ function plotData(t1, x1, y1, z1) {
 <!--
 style="font-size: 30px; margin: 0 0;"
 -->
-**R-Profil**
+**P-Profil**
 
 
-``` cvs (Messstrecke in mm - R-Profil in µm)
+``` cvs (Taststrecke in mm - P-Profil in µm)
+
 ```
 <script>
-let data3 = `@input`.replace(/,/g, ".");
+let data2 = `@input`.replace(/,/g, ".");
 
-let split3 = data3.match(/\d+(?:\.\d+)?|\-\d+(?:\.\d+)?/g);
-//document.write(split3);
-let Ln = []
-let R = []
+let split2 = data2.match(/\d+(?:\.\d+)?|\-\d+(?:\.\d+)?/g);
+//document.write(split2);
+let Lt = []
+let P = []
 
 
-for(let i=0; i<split3.length; i=i+2) {
-  Ln.push(parseFloat(split3[i]));
-  R.push(parseFloat(split3[i+1]));
+for(let i=0; i<split2.length; i=i+2) {
+  Lt.push(parseFloat(split2[i]));
+  P.push(parseFloat(split2[i+1]));
 };
 
-plotData(Ln, R);
+plotData(Lt, P);
 
-function plotData(t3, x3) {
+function plotData(t2, x2) {
 
-  let main3 = document.getElementById('main3');
-  main3.hidden = false;
+  let main2 = document.getElementById('main2');
+  main2.hidden = false;
 
-  let r = []
+  let p = []
 
-  for(let i=0; i<t3.length; i++) {
-    r.push([t3[i], x3[i]])
+  for(let i=0; i<t2.length; i++) {
+    p.push([t2[i], x2[i]])
   }
 
-  let chart3 = echarts.init(main3);
+  let chart2 = echarts.init(main2);
 
-  let option3 = {
+  let option2 = {
 
     title : {
       display: false,
-      text: "Rauheitsprofil",
-      subtext: 'R-Profil',
+      text: "Primärprofil",
+      subtext: 'P-Profil',
       itemGap: 10,
       textAlign: 'auto',
       textVerticalAlign: 'middle',
@@ -531,13 +532,14 @@ function plotData(t3, x3) {
     },
 
     legend: {
-        data:['R-Profil'],
+        data:['P-Profil'],
         top: 80,
         itemGap: 40,
         itemWidth: 50,
         itemHeight: 20,
         textStyle: {
           fontSize: 24,
+          color: 'black',
         },
     },
 
@@ -557,7 +559,7 @@ function plotData(t3, x3) {
 
     xAxis: [{
       type: 'value',
-      name: 'Messstrecke in mm',
+      name: 'Taststrecke in µm',
       nameLocation: 'middle',
       nameGap: 40,
       min: 0,
@@ -586,25 +588,29 @@ function plotData(t3, x3) {
 
     series : [
     {
-      name:'R-Profil',
+      name:'P-Profil',
       type:'line',
-      data: r,
+      data: p,
       symbol: 'none',
+      color: 'black',
       lineStyle: {
         width: 1,
+        color: 'black',
       },
     },
     ]
   };
 
   // use configuration item and data specified to show chart
-  chart3.setOption(option3);
+  chart2.setOption(option2);
 
-  window.addEventListener('resize', chart3.resize);
+  window.addEventListener('resize', chart2.resize);
 }
 </script>
 
-<div id="main3" style="position: relative; width:100%; height:600%;" hidden="true"></div>
+<div id="main2" style="position: relative; width:100%; height:600%;" hidden="true"></div>
+
+<br/>
 
 
 ### Durchmesser
