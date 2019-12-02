@@ -559,7 +559,7 @@ function plotData(t2, x2) {
 
     xAxis: [{
       type: 'value',
-      name: 'Taststrecke in µm',
+      name: 'Taststrecke in mm',
       nameLocation: 'middle',
       nameGap: 40,
       min: 0,
