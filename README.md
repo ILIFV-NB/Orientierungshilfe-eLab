@@ -4,13 +4,13 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
 
 narrator: DE FEMALE
 
-comment: Praktikum Drehen
+comment: Hinweise zum Arbeiten mit eLab
 
 script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 
@@ -18,7 +18,7 @@ script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 
 # **Orientierungshilfe eLab**
 
-Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
+Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](http://192.168.16.148/) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
 
@@ -35,7 +35,7 @@ Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](ht
 
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wurde im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung eLab](http://192.168.16.148/). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 <br/>
 
@@ -52,10 +52,10 @@ Folgende Kurse befinden sich derzeit in der Lernumgebung:
 
 # Wie registriere ich mich?
 
-Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) führt.
+Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](http://192.168.16.148//) führt.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -63,7 +63,7 @@ style = "width: 75%;
 Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register-User.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -77,7 +77,7 @@ Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die z
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -89,7 +89,7 @@ Mithilfe der Kurse können Sie sich inhaltlich (**Theoretische Grundlagen**) sow
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-(Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind.) Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [eLab](https://elab-hsmd-qa.dev.enterprises/) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+(Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind.) Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [eLab](http://192.168.16.148//) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 <!--
 style="font-size: 14px;"
@@ -106,11 +106,11 @@ $^* $Derzeit noch nicht möglich. Bitte nutzen Sie ein externes Speichermedium o
 
 # Wo finde ich die Kurse und wie trete ich ihnen bei?
 
-Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
+Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](http://192.168.16.148//) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -746,7 +746,7 @@ function plotData(t5, x5) {
 <div id="main5" style="position: relative; width:100%; height:600%;" hidden="true"></div>
 
 
-## Hinweise
+### Hinweise
 
 * Betätigen der Funktionstaste F5 aktualisiert die Seite und lässt alle Diagramme verschwinden. Ein erneuter Klick auf den Pfeil unter dem Eingabefeld erzeugt ein neues Diagramm.
 * Um sich einen Ausschnitt im Diagramm näher anzuschauen, klicken Sie über dem Diagramm auf das Zoom-Icon und wählen den zu betrachtenden Bereich im Diagramm aus. Den Ausgangszustand erhalten Sie mit Zoom-Reset (Icon daneben).
@@ -754,23 +754,11 @@ function plotData(t5, x5) {
 
 # Allgemeine Hinweise
 
-<br/>
-
-[Kommentare](#15)
-
-[Passwort](#16)
-
-[Kontakt](#17)
-
-## Hilfe
-
 ~~Kommentare zu den Kursen~~
 
 Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im Titel den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen.
 
-
-## Passwort
-
+<br/>
 ~~Passwort ändern~~
 
 Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me*, geben Ihr neues Passwort ein und bestätigen dieses.
@@ -784,10 +772,11 @@ style = "width: 75%;
 <br>
 ~~Passwort vergessen~~
 
-Wenn Sie Ihr Passwort vergessen haben, wenden Sie sich bitte per E-Mail an den Dozenten bzw. an [Nancy Brinkmann](#17) oder [Ronny Stolze](#17). Sie bekommen in diesem Fall ein Einmalpasswort, das Sie nach oben beschriebener Anleitung ändern können.
+Wenn Sie Ihr Passwort vergessen haben, wenden Sie sich bitte per E-Mail an den Dozenten bzw. an [Nancy Brinkmann](#15) oder [Ronny Stolze](#15). Sie bekommen in diesem Fall ein Einmalpasswort, das Sie nach oben beschriebener Anleitung ändern können.
 
 
-## Kontakt
+# Kontakt
+
 
 Nancy Brinkmann <br>
 E-Mail: nancy.brinkmann(at)h2.de
