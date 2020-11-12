@@ -35,7 +35,7 @@ Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](ht
 
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wurde im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, [registrieren](#3) Sie sich bitte in der [Webumgebung eLab](http://192.168.16.148/). Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, ist die [Registrierung](#3) in der [Webumgebung eLab](http://192.168.16.148/) notwendig. Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 <br/>
 
@@ -52,7 +52,7 @@ Folgende Kurse befinden sich derzeit in der Lernumgebung:
 
 # Wie registriere ich mich?
 
-Folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](http://192.168.16.148//) führt.
+Für den Fall, dass Sie sich noch nicht in der Webumgebung registriert haben, folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](http://192.168.16.148//) führt.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
 style = "width: 60%;
@@ -131,14 +131,14 @@ Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien 
 Für jeden Versuch finden Sie [hier](#9) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Eingabefeld-Kraftverlauf.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
 Bitte kopieren Sie die Daten aus Ihrer zuvor generierten Textdatei in das Eingabefeld.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Textdatei-Kraftverlauf.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -146,7 +146,7 @@ style = "width: 75%;
 Ein Klick auf den blauen Pfeil links unter dem Feld verwandelt Ihre Daten in ein Diagramm. Dieses können Sie nun auswerten und sich als Bild herunterladen. Um einzelne Graphen auszublenden, klicken Sie auf das jeweilige Symbol in der Legende.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Diagramm-Kraftverlauf.png)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
@@ -765,7 +765,7 @@ Um Ihr Passwort zu ändern, gehen Sie im Menü auf *Me*, geben Ihr neues Passwor
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Passwort.jpg)<!--
-style = "width: 75%;
+style = "width: 60%;
         border: 1px solid; "
 -->
 
