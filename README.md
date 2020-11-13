@@ -124,7 +124,7 @@ style = "width: 60%;
 
 Um das Praktikum abzuschließen, fassen Sie Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist zusammen. Die folgenden Seiten dienen als Hilfe zur Erstellung Ihres Protokolls.
 
-## Visualisieren von Textdateien
+## **Visualisieren von Textdateien**
 
 Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, haben Sie die Möglichkeit, sie zu visualisieren. So können Sie diese besser auswerten und als Bild in Ihr Protokoll einbinden. Im Folgenden finden Sie eine Anleitung zur Vorgehensweise.
 
@@ -773,6 +773,12 @@ style = "width: 60%;
 ~~Passwort vergessen~~
 
 Wenn Sie Ihr Passwort vergessen haben, wenden Sie sich bitte per E-Mail an den Dozenten bzw. an [Nancy Brinkmann](#15) oder [Ronny Stolze](#15). Sie bekommen in diesem Fall ein Einmalpasswort, das Sie nach oben beschriebener Anleitung ändern können.
+
+<br>
+~~Logout~~
+
+Aus technischen Gründen ist ein Logout derzeit nur möglich, wenn mann sich innerhalb eines Kurses befindet.
+
 
 
 # Kontakt
