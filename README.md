@@ -39,15 +39,15 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 <br/>
 
-Folgende Kurse befinden sich derzeit in der Lernumgebung:
+~~Folgende Kurse befinden sich derzeit in der Lernumgebung:~~
 
-* Orientierungshilfe e-Lab
-* Theoretische Grundlagen
-* Maschinen- & Gerätetechnik
-* Lernzielkontrolle
-* Versuchsvorbereitung
-* Versuch 1 - Rauheitsmodell
-* Versuch 2 - Zerspankraftmodell
+1. Orientierungshilfe e-Lab
+2. Theoretische Grundlagen
+3. Maschinen- & Gerätetechnik
+4. Lernzielkontrolle
+5. Versuchsvorbereitung
+6. Versuch 1 - Rauheitsmodell
+7. Versuch 2 - Zerspankraftmodell
 
 
 # Wie registriere ich mich?
