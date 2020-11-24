@@ -33,7 +33,7 @@ Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](ht
 
 # Was ist *eLab*?
 
-Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wurde im Rahmen des Projektes "Industrial e-Lab" neu angeordnet und somit zum "Praktikum Drehen mit Fernzugriff".
+Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wurde im Rahmen des Projektes "Industrial e-Lab" neu gestaltet, digitalisiert und somit zum "Praktikum Drehen mit Fernzugriff" weiterentwickelt.
 
 Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, ist die [Registrierung](#3) in der [Webumgebung eLab](http://192.168.16.148/) notwendig. Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
