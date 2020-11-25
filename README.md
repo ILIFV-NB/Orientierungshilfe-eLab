@@ -126,7 +126,7 @@ Um das Praktikum abzuschließen, fassen Sie Ihre Beobachtungen und Ergebnisse de
 
 ## **Visualisieren von Textdateien**
 
-Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, haben Sie die Möglichkeit, sie zu visualisieren. So können Sie diese besser auswerten und als Bild in Ihr Protokoll einbinden. Im Folgenden finden Sie eine Anleitung zur Vorgehensweise.
+Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, haben Sie die Möglichkeit, sie zu visualisieren und somit besser auszuwerten. Im Folgenden finden Sie eine Anleitung zur Vorgehensweise.
 
 Für jeden Versuch finden Sie [hier](#9) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
 
