@@ -99,9 +99,9 @@ style="font-size: 14px;"
 <br>
 **Nach dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung.$^* $ Um das Praktikum abzuschließen, fassen Sie mit Unterstützung der ~~Hilfestellung Protokollerstellung~~ Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist in einem Protokoll zusammen. Ihr Praktikum ist damit vollständig.
+Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung.$^* $ Um das Praktikum abzuschließen, fassen Sie mit Unterstützung der [Hilfestellung Protokollerstellung](#7) Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist in einem Protokoll zusammen. Ihr Praktikum ist damit vollständig.
 
-$^* $Derzeit noch nicht möglich. Bitte nutzen Sie vor Ort ein externes Speichermedium oder Ihren in der [Nextcloud](https://nextcloud.hs-magdeburg.de/nextcloud/index.php/login) zur Verfügung stehenden Speicherplatz.
+$^* $Derzeit noch nicht möglich. Bitte nutzen Sie vor Ort ein externes Speichermedium oder Ihren in der [Nextcloud](https://nextcloud.hs-magdeburg.de/nextcloud/index.php/login) zur Verfügung stehenden Speicherplatz. (Die innerhalb der Webumgebung eingepflegten Daten bleiben dort bestehen.)
 
 
 # Wo finde ich die Kurse und wie trete ich ihnen bei?
