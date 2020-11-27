@@ -18,7 +18,7 @@ script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 
 # **Orientierungshilfe eLab**
 
-Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](http://192.168.16.11/) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
+Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) sowie praktikumsspezifische Vorgehensweisen erläutert und häufig auftretende Fragen geklärt. An dieser Stelle möchten wir Sie bitten, gern mit noch [offenen Fragen](#14) auf uns zuzukommen, sodass auch diese hier möglichst schnell beantwortet werden und somit alle nachfolgenden Nutzer noch mehr Unterstützung finden können. Vielen Dank!
 
 <br>
 
@@ -35,7 +35,7 @@ Auf den folgenden Seiten werden das Arbeiten innerhalb der [Webumgebung eLab](ht
 
 Das Praktikum "Drehen" innerhalb des Pflichtmoduls "Innovative Fertigungsverfahren" (5. Semester, WS, Vertiefungsrichtung Produktionstechnik) im Bachelorstudiengang Maschinenbau wurde im Rahmen des Projektes "Industrial e-Lab" neu gestaltet, digitalisiert und somit zum "Praktikum Drehen mit Fernzugriff" weiterentwickelt.
 
-Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, ist die [Registrierung](#3) in der [Webumgebung eLab](http://192.168.16.11/) notwendig. Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
+Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Berufspraxis, besteht das Ziel des neu konzeptionierten Praktikums u.a. darin, Ihnen die Möglichkeit der weitestgehend eigenständigen Planung, Durchführung und Interpretation der Ergebnisse zu geben. Um diese Vorgehensweise zu gewährleisten, ist die [Registrierung](#3) in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises/) notwendig. Mit diesem Zugang erhalten Sie Zugriff auf Lerninhalte, Kurse, Lernzielkontrollen und sonstige Informationen das Praktikum betreffend.
 
 <br/>
 
@@ -52,7 +52,7 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 # Wie registriere ich mich?
 
-Für den Fall, dass Sie sich noch nicht in der Webumgebung registriert haben, folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](http://192.168.16.11//) führt.
+Für den Fall, dass Sie sich noch nicht in der Webumgebung registriert haben, folgen Sie bitte dem Link, der Sie direkt zur [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises//) führt.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register.png)<!--
 style = "width: 60%;
@@ -89,7 +89,7 @@ Mithilfe der Kurse können Sie sich inhaltlich (**Theoretische Grundlagen**) sow
 <br>
 **Während des Praktikums/der Versuchsdurchführung**
 
-(Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind.) Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [eLab](http://192.168.16.11//) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+(Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind.) Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [eLab](https://elab-hsmd-qa.dev.enterprises//) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
 
 <!--
 style="font-size: 14px;"
@@ -106,7 +106,7 @@ $^* $Derzeit noch nicht möglich. Bitte nutzen Sie vor Ort ein externes Speicher
 
 # Wo finde ich die Kurse und wie trete ich ihnen bei?
 
-Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](http://192.168.16.11//) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
+Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises//) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
