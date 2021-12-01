@@ -43,12 +43,11 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 1. Orientierungshilfe e-Lab
 2. Theoretische Grundlagen
-3. Maschinen- & Gerätetechnik
-4. Lernzielkontrolle
-5. Versuchsvorbereitung
-6. Versuch 1 - Rauheitsmodell
-7. Versuch 2 - Zerspankraftmodell
-
+3. Gesamtsystem WSWW+H - Versuchsvorbereitung
+4. Versuch 1 - Rauheitsmodell
+5. Versuch 2 - Zerspankraftmodell
+6. Maschinen- & Gerätetechnik
+7. Lernzielkontrolle
 
 # Wie registriere ich mich?
 
@@ -70,7 +69,7 @@ style = "width: 60%;
 
 # Wie arbeite ich mit der Webumgebung *eLab*?
 
-Die Webumgebung eLab wird Sie während der gesamten Zeit ihres Praktikums begleiten. Sie beinhaltet die Kurse, die Sie sowohl bei der Vorbereitung (Teil 1) für das Praktikum vor Ort, während der Versuche (Teil 2) als auch bei Ihren Nachbereitungen (Teil 3) unterstützen.
+Die Webumgebung *eLab* wird Sie während der gesamten Zeit ihres Praktikums begleiten. Sie beinhaltet die Kurse, die Sie sowohl bei der Vorbereitung (Teil 1) für das Praktikum vor Ort, während der Versuche (Teil 2) als auch bei Ihren Nachbereitungen (Teil 3) unterstützen.
 
 Nachdem Sie sich [registriert](#3) haben, finden Sie im Menü unter *eLab* die zur Verfügung stehenden Kurse. Um einem Kurs beizutreten, öffnen Sie diesen. Sie finden ihn von nun an im Menü unter *My Courses*.
 
@@ -82,14 +81,14 @@ style = "width: 60%;
 -->
 
 <br>
-**Vor dem Praktikum**
+**~~Vor~~ dem Praktikum**
 
 Mithilfe der Kurse können Sie sich inhaltlich (**Theoretische Grundlagen**) sowie praktisch (**Versuche**) auf das Praktikum vorbereiten und die für die Versuchsdurchführung benötigten Berechnungen anstellen. Einmal eingegeben und mit *Submit* bestätigt, sind diese gespeichert und können über Ihren Account eingesehen werden. So haben Sie auch im Labor Zugriff darauf. Sie haben weiterhin die Möglichkeit, sich im Vorfeld mit der zu verwendenden Technik vertraut zu machen (**Maschinen- und Gerätetechnik**). Die **Lernzielkontrolle** bietet Ihnen die Möglichkeit, Ihren aktuellen Wissensstand zu überprüfen.
 
 <br>
-**Während des Praktikums/der Versuchsdurchführung**
+**~~Während~~ des Praktikums/der Versuchsdurchführung**
 
-(Nachdem Sie alle Voruntersuchungen bis zu einer festgesetzten Frist getätigt haben, gibt Ihnen Ihr Dozent die Information darüber, ob Sie zu den Versuchen vor Ort zugelassen sind.) Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [eLab](https://elab-hsmd-qa.dev.enterprises//) anzumelden und Ihre Daten aufzurufen. Die erhobenen Versuchsdaten können Sie vor Ort abspeichern.
+Entsprechend Ihrer Gruppeneinteilung über Moodle finden Sie sich zur Versuchsdurchführung im Fertigungslabor ein. Ein Dozent wird Ihnen stets zur Seite stehen und Fragen beantworten. Im Labor haben Sie die Möglicheit, sich mit Ihrem Account im [*eLab*](https://elab-hsmd-qa.dev.enterprises//) anzumelden und Ihre Daten aufzurufen. Ihre vor Ort erhobenen Versuchsdaten speichern Sie bitte auf einem externen Speichermedium oder in Ihrem in der [Nextcloud](https://nextcloud.hs-magdeburg.de/nextcloud/index.php/login) zur Verfügung stehenden Speicherplatz. (Die innerhalb der Webumgebung eingepflegten Daten bleiben dort bestehen.)
 
 <!--
 style="font-size: 14px;"
@@ -97,16 +96,14 @@ style="font-size: 14px;"
 [*Anmerkung: Einigen Sie sich bitte, welchen Account der Mitglieder Sie nutzen möchten. Aus technischen Gründen ist es momentan leider nicht möglich, einer Gruppe einen Zugang zuzuordnen.*]
 
 <br>
-**Nach dem Praktikum**
+**~~Nach~~ dem Praktikum**
 
-Nachdem Sie die Versuche durchgeführt und Ihre Daten erhoben haben, stehen diese Ihnen zeit- und ortsunabhängig zur Verfügung.$^* $ Um das Praktikum abzuschließen, fassen Sie mit Unterstützung der [Hilfestellung Protokollerstellung](#7) Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist in einem Protokoll zusammen. Ihr Praktikum ist damit vollständig.
-
-$^* $Derzeit noch nicht möglich. Bitte nutzen Sie vor Ort ein externes Speichermedium oder Ihren in der [Nextcloud](https://nextcloud.hs-magdeburg.de/nextcloud/index.php/login) zur Verfügung stehenden Speicherplatz. (Die innerhalb der Webumgebung eingepflegten Daten bleiben dort bestehen.)
+Um das Praktikum abzuschließen, fassen Sie mit Unterstützung der [Hilfestellung Protokollerstellung](#7) Ihre Beobachtungen und Ergebnisse der Versuche bis zu einer festgesetzten Frist in einem Protokoll zusammen. Ihr Praktikum ist damit vollständig.
 
 
 # Wo finde ich die Kurse und wie trete ich ihnen bei?
 
-Alle verfügbaren Kurse befinden sich in der [Webumgebung eLab](https://elab-hsmd-qa.dev.enterprises//) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
+Alle verfügbaren Kurse befinden sich in der [Webumgebung *eLab*](https://elab-hsmd-qa.dev.enterprises//) unter dem Menüpunkt *eLab*. Um einem Kurs beizutreten, öffnen Sie diesen. Kurse, denen Sie einmal beigetreten sind, finden Sie im Menü unter *My Courses*.
 
 <br>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Kurse.png)<!--
@@ -117,7 +114,7 @@ style = "width: 60%;
 
 # Was passiert, nachdem ich die Vorbereitungen abgeschlossen habe?
 
-(Sobald Sie alle erforderlichen Kurse bis zu einer festgesetzten Frist abgeschlossen haben, werden Ihre Eingaben geprüft. Der Dozent sendet Ihnen eine Mail mit Informationen zu Ihrem Bearbeitungsstand und ggf. dem Zugang zu den möglichen Praktikumszeiten im Labor. Dort tragen Sie sich für eine Zeit ein und absolvieren vor Ort in Gruppen den zweiten Teil des Praktikums.)
+Bevor Sie an der Versuchsdurchführung vor Ort teilnehmen, sollten Sie alle Kurse bearbeitet und die erforderlichen Berechnungen angestellt haben. Die möglichen Praktikumszeiten im Labor haben Sie im Idealfall bereits bei Moodle gefunden und sich für eine Zeit eingetragen. Vor Ort absolvieren Sie in Gruppen den zweiten Teil des Praktikums.
 
 
 # Hilfestellung Protokollerstellung
@@ -128,7 +125,7 @@ Um das Praktikum abzuschließen, fassen Sie Ihre Beobachtungen und Ergebnisse de
 
 Während der Durchführung der Versuche im Labor, werden Sie einige Textdateien ansammeln, die z.B. Daten zur Kraftmessung, Rauheitsmessung u.v.m. enthalten. Um diese ansehnlich in Ihr Protokoll einzubinden, haben Sie die Möglichkeit, sie zu visualisieren und somit besser auszuwerten. Im Folgenden finden Sie eine Anleitung zur Vorgehensweise.
 
-Für jeden Versuch finden Sie [hier](#9) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
+Für jeden Versuch finden Sie auf den Seiten [9](#9), [10](#10), [11](#11) und [12](#12) eine entsprechende Vorlage zur Diagrammerstellung. Für die Auswertung der Kraftkurven z.B. sehen Sie folgendes Fenster:
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Eingabefeld-Kraftverlauf.png)<!--
 style = "width: 60%;
@@ -756,7 +753,7 @@ function plotData(t5, x5) {
 
 ~~Kommentare zu den Kursen~~
 
-Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im Titel den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen.
+Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im Titel den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen. (Oder senden Sie eine Mail an nancy.brinkmann[at]h2.de.)
 
 <br/>
 ~~Passwort ändern~~
