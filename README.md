@@ -751,6 +751,8 @@ function plotData(t5, x5) {
 
 # Allgemeine Hinweise
 
+Bitte beachten Sie beim Durchblättern der Kurse auch die Unterseiten. Diese sind - falls vorhanden - in Klammern hinter den Seitenzahlen zu finden und können mithilfe der Pfeile angewählt werden.
+
 ~~Kommentare zu den Kursen~~
 
 Wenn Sie uns etwas zu den Kursen mitteilen möchten (Hinweise, Probleme, Anregungen, ...), können Sie dies unter folgendem Pfad: My Courses -> Course -> Issues. Dort geben Sie im Titel den Namen des Kurses ein, zu dem Sie einen Kommentar los werden möchten, wählen den jeweiligen Typ aus und beschreiben kurz Ihr Anliegen. (Oder senden Sie eine Mail an nancy.brinkmann[at]h2.de.)
