@@ -2,9 +2,9 @@
 
 author:   Nancy Brinkmann, Ronny Stolze
 
-email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
+email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de
 
-version:  11.20
+version:  11.22
 
 language: de
 
@@ -39,7 +39,7 @@ Vor dem Hintergrund der stärkeren Selbsttätigkeit und Orientierung an der Beru
 
 <br/>
 
-~~Folgende Kurse befinden sich derzeit in der Lernumgebung:~~
+~~Folgende [Kurse](https://elab-hsmd-qa.dev.enterprises/) befinden sich derzeit in der Lernumgebung:~~
 
 1. Orientierungshilfe e-Lab
 2. Theoretische Grundlagen
@@ -59,13 +59,12 @@ style = "width: 60%;
 -->
 
 
-Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert.
+Hier klicken Sie rechts oben auf *Register* und geben in der folgenden Maske Ihre Nutzerdaten ein. Mit einem Klick auf *Submit* sind Sie als User gespeichert. (Hinweis zur ID: Die Zahl hinter den Buchstaben muss zwischen 01 und 31 sein.)
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Orientierungshilfe-eLab/master/images/Register-User.png)<!--
 style = "width: 60%;
         border: 1px solid; "
 -->
-
 
 # Wie arbeite ich mit der Webumgebung *eLab*?
 
